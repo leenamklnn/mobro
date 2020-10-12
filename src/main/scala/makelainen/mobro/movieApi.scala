@@ -1,12 +1,12 @@
 package makelainen.mobro
 
-
+//TODO: Make some of the fields optional and handle numeric fields as Int
 case class Movie(name: String,
-                 year: Int,
-                 genres: List[String],
-                 ageLimit: Int,
-                 rating: Int,
-                 //actors: List[String],
+                 year: String,
+                 genres: String, //TODO: Support List of Strings
+                 ageLimit: String,
+                 rating: String,
+                 //TODO: actors: List[String],
                  director: String,
                  synopsis: String)
 

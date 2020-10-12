@@ -66,6 +66,17 @@ trait FileHandlerComponent extends ObjectMapper {
       Future.successful(Done)
     }
 
+    /**
+     * Reads the movies data source file and returns the movie with given name
+     *
+     * @param movieName Name of the movie to be fetched
+     * @return Movie with the given name
+     */
+    def getMovieFromFile(movieName: String): Movie = {
+      println("Get movie with name " + movieName)
+      readMoviesFromFile().filter(_.name == movieName).head // Name is expected to be unique
+    }
+
   }
 
 }

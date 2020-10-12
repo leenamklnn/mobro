@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="896534c4-647d-4cc1-95dc-3abcd359f464" name="Default Changelist" comment="" />
+    <list default="true" id="896534c4-647d-4cc1-95dc-3abcd359f464" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/FileHandlerComponent$FileHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/FileHandlerComponent$FileHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/FileHandlerComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/FileHandlerComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/HttpServerComponent$HttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/HttpServerComponent$HttpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/HttpServerComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/HttpServerComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/Movie$.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/Movie$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/MoviesJsonSupport.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/scala/main/makelainen/mobro/MoviesJsonSupport.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/MoBro-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/MoBro-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileScala.analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies.json" beforeDir="false" afterPath="$PROJECT_DIR$/movies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/FileHandlerComponent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/FileHandlerComponent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/HttpServerComponent.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/HttpServerComponent.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/movieApi.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/makelainen/mobro/movieApi.scala" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +50,9 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -39,6 +64,17 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1iaDNU0ZQ2Vs6GMfAG4QFrIiglc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/scala/makelainen/mobro" />
@@ -103,5 +139,18 @@
       <updated>1602136768445</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
