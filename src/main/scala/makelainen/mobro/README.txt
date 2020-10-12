@@ -26,6 +26,8 @@ POST request will remove the movie with the defined name from the data source
 Example request:
 {
   "name": "Avengers: Endgame"
+}
+
 Next version will have the following improvements:
 - Handling movies in a database instead of a file
 - Support listing actors for the movies
